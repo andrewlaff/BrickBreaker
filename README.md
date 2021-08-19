@@ -4,7 +4,7 @@ This is a game starts with multiple levels of bricks that must be destroyed usin
 
 ## How to Install
 
-* Clone the repository
+* Clone repository
 
     ```git clone https://github.com/andrewlaff/BrickBreaker.git```
     
