@@ -23,13 +23,21 @@ This is a game starts with multiple levels of bricks that must be destroyed usin
 
 
 ## Configurations 
-...
+Source code 
 
 
 ## File Structure Breakdown
-...
+**HTML**
+index.html
 
+**JavaScript**
+script.js
+
+**CSS**
+style.css
 
 ## Preview
-[insert picture]
+
+<img width="480" alt="Game Preview" src="https://user-images.githubusercontent.com/20544826/130154621-b0429737-7293-457a-89b6-dc8e080a38e9.png">
+
 
