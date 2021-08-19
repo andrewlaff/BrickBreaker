@@ -6,15 +6,15 @@ This is a game starts with multiple levels of bricks that must be destroyed usin
 
 * Clone the repository
 
-    ```git clone git@github.com:***UPDDATE***.git```
+    ```git clone https://github.com/andrewlaff/BrickBreaker.git```
     
-* Compile project
+* Change Directory
 
-    ```javac src/*.java -d target/```
+    ```cd BrickBreaker```
     
-* Run project
+* Run Local Host
 
-    ```java -cp target/ Main```
+    ```python -m SimpleHTTPServer 8000```
     
 
 ## Development
