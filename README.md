@@ -24,10 +24,6 @@ This is a game starts with multiple levels of bricks that must be destroyed usin
 * Canvas API
 
 
-## Configurations 
-Source code 
-
-
 ## File Structure Breakdown
 **HTML**
 index.html
