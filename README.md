@@ -16,10 +16,12 @@ This is a game starts with multiple levels of bricks that must be destroyed usin
 
     ```python -m SimpleHTTPServer 8000```
     
+* Open web browser and got to "localhost:8000".
+    
 
 ## Development
 * JavaScript via VSCode
-* Canvas API used to draw shapes
+* Canvas API
 
 
 ## Configurations 
